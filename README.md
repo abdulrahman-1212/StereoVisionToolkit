@@ -1,4 +1,4 @@
-# StereoVision Edge Toolkit
+# StereoEdge: Stereo Vision Edge Toolkit
 
 A high-performance, low-latency stereo vision toolkit optimized for edge devices, featuring robust feature matching, zero-allocation rectification, and real-time depth estimation.
 
